@@ -3,3 +3,5 @@ Support system for [UmbraCare.DedicatedMediaFolder](https://umbracare.net/produc
 
 Please create a ticket via [issues](https://github.com/umbracare/UmbraCare.DedicatedMediaFolder.Issues/issues) tab.
 
+Contact email: support@umbracare.net
+
